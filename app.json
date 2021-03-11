@@ -1,0 +1,26 @@
+{
+  "id": "53b70192-07ec-48e4-b982-70fb124fb17d",
+  "name": "bc18",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://bc18.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
